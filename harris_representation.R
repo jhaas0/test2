@@ -19,3 +19,5 @@ harris_rep <- harris_test %>%
             n_total = n(), 
             pct_def_represented = round(100 * def_represented/n_total, 2), 
             pct_plaintiff_represented = round(100 * plaintiff_represented/n_total, 2))
+
+Test
